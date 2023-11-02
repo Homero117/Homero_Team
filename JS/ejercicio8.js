@@ -12,6 +12,6 @@ function devVal(num,v){
             return  val = 100/v;
             break
         default:
-            return  val = 0;      
-    }
+            return  val = 0;
+        }
 }

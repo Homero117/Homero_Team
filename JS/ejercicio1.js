@@ -1,7 +1,7 @@
-console.log("Ejercicio1");
+console.log('Ejercicio 1');
 
 function opAritmetica (a, b) {
-    r= (a + b)**2 / 3;
+    r = ((a + b) ** 2) / 3;
 
     return r;
 }
