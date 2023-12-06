@@ -73,6 +73,4 @@ function updateRecords(records, id, prop, value) {
   return records;
 }
 
-// Ejemplo de uso:
-const updatedRecords = updateRecords(recordCollection, 2548, 'tracks', 'Wanted Dead or Alive');
-console.log(updatedRecords);
+
